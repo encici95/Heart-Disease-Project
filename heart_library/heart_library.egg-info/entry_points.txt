@@ -1,0 +1,2 @@
+[console_scripts]
+heart_analyze = heart_library.cli:main
